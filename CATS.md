@@ -7,3 +7,5 @@
 * Puffy
 
 Two cats named Pirsy and Tommy
+
+Two kittens named Snow-white and Puffy
