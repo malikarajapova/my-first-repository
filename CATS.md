@@ -1,6 +1,8 @@
 # CATS
 * Pirsy
 * Tommy
+* Dream
+* Coco
 
 # Kittens
 * Snow-white
